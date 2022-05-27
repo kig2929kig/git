@@ -1,4 +1,5 @@
 한동대학교 장소연 교수님의 오픈소스 소프트웨어 실습 중 버전관리시스템 : 깃을 보고 개인적으로 정리한 내용임을 밝힙니다.
+
 [출처] http://www.kocw.net/home/cview.do?cid=004c5dd1bbcd95b2
 
 # 버전 관리 시스템(VCS:Version Control System)
